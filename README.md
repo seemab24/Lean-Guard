@@ -3,6 +3,14 @@
 **Lean Guard** is a powerful AI-driven image moderation system designed to automatically classify uploaded images as **Safe** or **Prohibited**. Leveraging deep learning models, it detects sensitive content such as weapons, gore, and explosives — helping platforms maintain safe and compliant environments.
 
 ---
+## ⚙️ Tech Stack
+
+- **Frontend**: HTML5, CSS3 (via Flask templating – Jinja2)
+- **Backend**: Python 3.10, Flask (micro web framework)
+- **Machine Learning**: Keras, TensorFlow, EfficientNet, Custom CNN
+- **Deployment**: Localhost (Flask server)
+- **Environment**: `venv` (Python virtual environment)
+- **Other Tools**: Git, GitHub, Google Colab (for model training and prototyping)
 
 ## 🔍 Features
 
