@@ -140,36 +140,36 @@ Save models as .keras and place them in the models/ folder
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-<img src="screenshots/home.jpg" alt="Home Page" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/home.jpg" alt="Home Page" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
 ### 🔹 Safe Image Results
-<img src="screenshots/safe_image_result.jpg" alt="Safe Result 1" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/safe_image_result.jpg" alt="Safe Result 1" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/safe_image_result_2.jpg" alt="Safe Result 2" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/safe_image_result_2.jpg" alt="Safe Result 2" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/safe_image_result_3.jpg" alt="Safe Result 3" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/safe_image_result_3.jpg" alt="Safe Result 3" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/safe_image_result_4.jpg" alt="Safe Result 4" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/safe_image_result_4.jpg" alt="Safe Result 4" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/safe_image_result_5.jpg" alt="Safe Result 5" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/safe_image_result_5.jpg" alt="Safe Result 5" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
 ### 🔹 Prohibited Image Results
-<img src="screenshots/prohibited_result.jpg" alt="Prohibited Result 1" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/prohibited_result.jpg" alt="Prohibited Result 1" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/prohibited_result_2.jpg" alt="Prohibited Result 2" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/prohibited_result_2.jpg" alt="Prohibited Result 2" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/prohibited_result_3.jpg" alt="Prohibited Result 3" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/prohibited_result_3.jpg" alt="Prohibited Result 3" width="600" style="display: block; margin: 0 auto;"/>
 <br>
 
-<img src="screenshots/prohibited_result_4.jpg" alt="Prohibited Result 4" width="600" style="display: block; margin: 0 auto;"/>
+<img src="Screenshots/prohibited_result_4.jpg" alt="Prohibited Result 4" width="600" style="display: block; margin: 0 auto;"/>
 
 
 ## 👥 Contributors
