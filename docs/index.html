@@ -581,13 +581,16 @@
         formData.append("file", file);
         
         try {
-          // Simulate API call with timeout
-          await new Promise(resolve => setTimeout(resolve, 2500));
+          const response = await fetch("http://127.0.0.1:8000/predict", {
+            method: "POST",
+            body: formData
+          });
           
-          // For demo purposes, we'll randomly determine if the image is safe or not
-          const isSafe = Math.random() > 0.3;
-          const data = { status: isSafe ? "Safe" : "Prohibited" };
+          if (!response.ok) {
+            throw new Error(`Server error: ${response.status}`);
+          }
           
+          const data = await response.json();
           displayResult(data.status);
         } catch (error) {
           showError(error.message || "An error occurred while processing the image");
